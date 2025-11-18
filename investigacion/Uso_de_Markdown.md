@@ -59,4 +59,5 @@ El uso de **Markdown** junto con **GitHub** ofrece una integración muy poderosa
 - **Control de versiones:** Permite mantener un historial de cambios de la documentación, igual que con el código.  
 - **Colaboración en equipo:** Varios desarrolladores pueden editar la misma documentación y realizar revisiones (pull requests).  
 - **Visualización inmediata:** Los archivos Markdown se renderizan directamente en la interfaz web de GitHub, lo que facilita la lectura sin necesidad de herramientas externas.  
+
 - **Compatibilidad:** Markdown se usa también en wikis, issues y pull requests, lo que unifica el formato de comunicación técnica dentro de la plataforma. 
