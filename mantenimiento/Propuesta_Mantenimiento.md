@@ -48,3 +48,4 @@ El cambio funcional propuesto mejora la confiabilidad y la usabilidad del sistem
 También mejora la experiencia del usuario final al proporcionar un entorno más completo, funcional y orientado a resultados.  
 Asimismo, contribuye a la calidad interna del software, ya que el código del nuevo módulo estará documentado, reutilizable y alineado con las buenas prácticas de desarrollo.  
 
+
